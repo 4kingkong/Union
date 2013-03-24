@@ -488,38 +488,53 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u284_line.png");
 }
 
-* html .u288_normal {
+* html .u290_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="top_bar_files/u5_normal.png");
 }
 
-* html .u294_normal {
+* html .u309_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/介绍_进入友联按钮_u309_normal.png");
+}
+
+* html .u314_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="top_bar_files/u5_normal.png");
 }
 
-* html .u300_normal {
+* html .u320_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="home_files/u300_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="home_files/u320_normal.png");
 }
 
-* html .u307_normal {
+* html .u327_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u307_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u327_normal.png");
 }
 
-* html .u314_line {
+* html .u333_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u314_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u333_line.png");
 }
 
-* html .u316_normal {
+* html .u334_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u307_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u327_normal.png");
 }
 
-* html .u330_line {
+* html .u341_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u330_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u341_line.png");
+}
+
+* html .u343_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u327_normal.png");
+}
+
+* html .u356_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="友联_files/u356_line.png");
 }
 
