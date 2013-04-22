@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.os.Handler"/>
+<fullyQualifiedTypeName name="android.os.Message"/>
+<fullyQualifiedTypeName name="android.os.Looper"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="com.example.union.R.layout"/>
+<fullyQualifiedTypeName name="com.example.union.R"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="com.example.union.MainActivity"/>
+<fullyQualifiedTypeName name="com.example.union.R.id"/>
+<fullyQualifiedTypeName name="com.example.union.R.string"/>
+</qualifiedTypeNameHistroy>

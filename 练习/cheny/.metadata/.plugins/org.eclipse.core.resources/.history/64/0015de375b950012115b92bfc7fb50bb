@@ -1,0 +1,7 @@
+package com.example.union;
+
+import android.app.activity;
+
+public class FriendMessage extends activity {
+
+}
